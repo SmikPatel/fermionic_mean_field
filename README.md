@@ -1,0 +1,1 @@
+This repository contains codes used to generate results shown in table 2 of "Extension of exactly-solvable Hamiltonians using symmetries of Lie algebras" (arXiv:2305.18251).
