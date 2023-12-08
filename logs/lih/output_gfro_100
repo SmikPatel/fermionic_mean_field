@@ -1,0 +1,55 @@
+
+Initial Norm : 7.551262528396354
+
+fragment count : 1, current norm : 0.0513194
+
+fragment count : 2, current norm : 0.0293432
+
+fragment count : 3, current norm : 0.0087724
+
+fragment count : 4, current norm : 0.0040613
+
+fragment count : 5, current norm : 0.0025631
+
+fragment count : 6, current norm : 0.0019215
+
+fragment count : 7, current norm : 0.0010666
+
+fragment count : 8, current norm : 0.0006243
+
+fragment count : 9, current norm : 0.0003662
+
+fragment count : 10, current norm : 0.0002233
+
+fragment count : 11, current norm : 0.0001331
+
+fragment count : 12, current norm : 9.44e-05
+
+fragment count : 13, current norm : 5.5e-05
+
+fragment count : 14, current norm : 3.22e-05
+
+fragment count : 15, current norm : 2.23e-05
+
+fragment count : 16, current norm : 1.22e-05
+
+fragment count : 17, current norm : 8.1e-06
+
+fragment count : 18, current norm : 5.6e-06
+
+fragment count : 19, current norm : 4.1e-06
+
+fragment count : 20, current norm : 2.7e-06
+
+fragment count : 21, current norm : 1.9e-06
+
+fragment count : 22, current norm : 1.2e-06
+
+fragment count : 23, current norm : 8e-07
+
+
+        Molecule            : lih
+        Method              : gfro
+        Number of Fragments : 23
+        Final Norm          : 8.440608743751915e-07 
+    

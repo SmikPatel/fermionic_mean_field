@@ -1,0 +1,211 @@
+
+Initial Norm : 51.8609404662307
+
+fragment count : 1, current norm : 4.5916959
+
+fragment count : 2, current norm : 1.0514995
+
+fragment count : 3, current norm : 0.3575052
+
+fragment count : 4, current norm : 0.203874
+
+fragment count : 5, current norm : 0.1417257
+
+fragment count : 6, current norm : 0.1024046
+
+fragment count : 7, current norm : 0.0787175
+
+fragment count : 8, current norm : 0.058533
+
+fragment count : 9, current norm : 0.0472409
+
+fragment count : 10, current norm : 0.0387695
+
+fragment count : 11, current norm : 0.0326039
+
+fragment count : 12, current norm : 0.0267833
+
+fragment count : 13, current norm : 0.0222659
+
+fragment count : 14, current norm : 0.0189799
+
+fragment count : 15, current norm : 0.0159853
+
+fragment count : 16, current norm : 0.0137324
+
+fragment count : 17, current norm : 0.0117041
+
+fragment count : 18, current norm : 0.0101613
+
+fragment count : 19, current norm : 0.008793
+
+fragment count : 20, current norm : 0.0076973
+
+fragment count : 21, current norm : 0.0066791
+
+fragment count : 22, current norm : 0.0058679
+
+fragment count : 23, current norm : 0.0051722
+
+fragment count : 24, current norm : 0.0045304
+
+fragment count : 25, current norm : 0.0040004
+
+fragment count : 26, current norm : 0.0035207
+
+fragment count : 27, current norm : 0.0031048
+
+fragment count : 28, current norm : 0.0027407
+
+fragment count : 29, current norm : 0.0024345
+
+fragment count : 30, current norm : 0.0021758
+
+fragment count : 31, current norm : 0.0019392
+
+fragment count : 32, current norm : 0.0017141
+
+fragment count : 33, current norm : 0.0015202
+
+fragment count : 34, current norm : 0.0013456
+
+fragment count : 35, current norm : 0.0011946
+
+fragment count : 36, current norm : 0.0010696
+
+fragment count : 37, current norm : 0.00095
+
+fragment count : 38, current norm : 0.0008486
+
+fragment count : 39, current norm : 0.0007536
+
+fragment count : 40, current norm : 0.0006682
+
+fragment count : 41, current norm : 0.0005945
+
+fragment count : 42, current norm : 0.0005294
+
+fragment count : 43, current norm : 0.0004743
+
+fragment count : 44, current norm : 0.0004219
+
+fragment count : 45, current norm : 0.0003732
+
+fragment count : 46, current norm : 0.0003311
+
+fragment count : 47, current norm : 0.0002938
+
+fragment count : 48, current norm : 0.0002638
+
+fragment count : 49, current norm : 0.0002335
+
+fragment count : 50, current norm : 0.0002079
+
+fragment count : 51, current norm : 0.0001841
+
+fragment count : 52, current norm : 0.0001642
+
+fragment count : 53, current norm : 0.0001447
+
+fragment count : 54, current norm : 0.0001293
+
+fragment count : 55, current norm : 0.0001151
+
+fragment count : 56, current norm : 0.0001024
+
+fragment count : 57, current norm : 9.06e-05
+
+fragment count : 58, current norm : 8.05e-05
+
+fragment count : 59, current norm : 7.17e-05
+
+fragment count : 60, current norm : 6.37e-05
+
+fragment count : 61, current norm : 5.65e-05
+
+fragment count : 62, current norm : 5.02e-05
+
+fragment count : 63, current norm : 4.47e-05
+
+fragment count : 64, current norm : 3.99e-05
+
+fragment count : 65, current norm : 3.53e-05
+
+fragment count : 66, current norm : 3.15e-05
+
+fragment count : 67, current norm : 2.8e-05
+
+fragment count : 68, current norm : 2.48e-05
+
+fragment count : 69, current norm : 2.21e-05
+
+fragment count : 70, current norm : 1.96e-05
+
+fragment count : 71, current norm : 1.75e-05
+
+fragment count : 72, current norm : 1.56e-05
+
+fragment count : 73, current norm : 1.4e-05
+
+fragment count : 74, current norm : 1.25e-05
+
+fragment count : 75, current norm : 1.1e-05
+
+fragment count : 76, current norm : 9.9e-06
+
+fragment count : 77, current norm : 8.8e-06
+
+fragment count : 78, current norm : 7.9e-06
+
+fragment count : 79, current norm : 7e-06
+
+fragment count : 80, current norm : 6.2e-06
+
+fragment count : 81, current norm : 5.5e-06
+
+fragment count : 82, current norm : 4.9e-06
+
+fragment count : 83, current norm : 4.4e-06
+
+fragment count : 84, current norm : 3.9e-06
+
+fragment count : 85, current norm : 3.5e-06
+
+fragment count : 86, current norm : 3.1e-06
+
+fragment count : 87, current norm : 2.8e-06
+
+fragment count : 88, current norm : 2.5e-06
+
+fragment count : 89, current norm : 2.3e-06
+
+fragment count : 90, current norm : 2.1e-06
+
+fragment count : 91, current norm : 2e-06
+
+fragment count : 92, current norm : 1.8e-06
+
+fragment count : 93, current norm : 1.7e-06
+
+fragment count : 94, current norm : 1.6e-06
+
+fragment count : 95, current norm : 1.4e-06
+
+fragment count : 96, current norm : 1.4e-06
+
+fragment count : 97, current norm : 1.3e-06
+
+fragment count : 98, current norm : 1.2e-06
+
+fragment count : 99, current norm : 1.1e-06
+
+fragment count : 100, current norm : 1e-06
+
+fragment count : 101, current norm : 1e-06
+
+
+        Molecule            : h2o
+        Method              : meanfield
+        Number of Fragments : 101
+        Final Norm          : 9.616010696345081e-07 
+    

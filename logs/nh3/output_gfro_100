@@ -1,0 +1,104 @@
+
+Initial Norm : 44.97312377429119
+
+fragment count : 1, current norm : 0.3571815
+
+fragment count : 2, current norm : 0.1806081
+
+fragment count : 3, current norm : 0.0902051
+
+fragment count : 4, current norm : 0.0525359
+
+fragment count : 5, current norm : 0.0357603
+
+fragment count : 6, current norm : 0.0246841
+
+fragment count : 7, current norm : 0.0171126
+
+fragment count : 8, current norm : 0.0122648
+
+fragment count : 9, current norm : 0.0091376
+
+fragment count : 10, current norm : 0.0066879
+
+fragment count : 11, current norm : 0.0051009
+
+fragment count : 12, current norm : 0.0039621
+
+fragment count : 13, current norm : 0.0030465
+
+fragment count : 14, current norm : 0.0024157
+
+fragment count : 15, current norm : 0.0019374
+
+fragment count : 16, current norm : 0.0015184
+
+fragment count : 17, current norm : 0.0011645
+
+fragment count : 18, current norm : 0.0008991
+
+fragment count : 19, current norm : 0.0006803
+
+fragment count : 20, current norm : 0.0005347
+
+fragment count : 21, current norm : 0.000418
+
+fragment count : 22, current norm : 0.0003193
+
+fragment count : 23, current norm : 0.0002492
+
+fragment count : 24, current norm : 0.0001974
+
+fragment count : 25, current norm : 0.0001553
+
+fragment count : 26, current norm : 0.0001231
+
+fragment count : 27, current norm : 9.86e-05
+
+fragment count : 28, current norm : 7.75e-05
+
+fragment count : 29, current norm : 6.04e-05
+
+fragment count : 30, current norm : 4.73e-05
+
+fragment count : 31, current norm : 3.75e-05
+
+fragment count : 32, current norm : 2.89e-05
+
+fragment count : 33, current norm : 2.24e-05
+
+fragment count : 34, current norm : 1.76e-05
+
+
+Norm at Checkpoint : 1.7605350588040734e-05
+
+fragment count : 35, current norm : 1.35e-05
+
+fragment count : 36, current norm : 1.03e-05
+
+fragment count : 37, current norm : 7.9e-06
+
+fragment count : 38, current norm : 6.2e-06
+
+fragment count : 39, current norm : 4.8e-06
+
+fragment count : 40, current norm : 3.7e-06
+
+fragment count : 41, current norm : 2.9e-06
+
+fragment count : 42, current norm : 2.3e-06
+
+fragment count : 43, current norm : 1.8e-06
+
+fragment count : 44, current norm : 1.4e-06
+
+fragment count : 45, current norm : 1.1e-06
+
+fragment count : 46, current norm : 9e-07
+
+
+        Molecule            : nh3
+        Method              : gfro
+        Number of Fragments : 46
+        Final Norm          : 8.556762066625966e-07 
+    

@@ -1,0 +1,37 @@
+
+Initial Norm : 4.620636732838568
+
+fragment count : 1, current norm : 0.0074812
+
+fragment count : 2, current norm : 0.0020392
+
+fragment count : 3, current norm : 0.0008565
+
+fragment count : 4, current norm : 0.0005259
+
+fragment count : 5, current norm : 0.000268
+
+fragment count : 6, current norm : 8.55e-05
+
+fragment count : 7, current norm : 4.71e-05
+
+fragment count : 8, current norm : 2.33e-05
+
+fragment count : 9, current norm : 1.02e-05
+
+fragment count : 10, current norm : 6e-06
+
+fragment count : 11, current norm : 2.8e-06
+
+fragment count : 12, current norm : 1.7e-06
+
+fragment count : 13, current norm : 1e-06
+
+fragment count : 14, current norm : 3e-07
+
+
+        Molecule            : h4
+        Method              : gfro
+        Number of Fragments : 14
+        Final Norm          : 2.9735013473958656e-07 
+    

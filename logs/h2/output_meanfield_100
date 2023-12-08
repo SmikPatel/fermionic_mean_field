@@ -1,0 +1,37 @@
+
+Initial Norm : 1.7468262255407514
+
+fragment count : 1, current norm : 0.4369265
+
+fragment count : 2, current norm : 0.1387778
+
+fragment count : 3, current norm : 0.0392863
+
+fragment count : 4, current norm : 0.0100761
+
+fragment count : 5, current norm : 0.0003277
+
+fragment count : 6, current norm : 8.96e-05
+
+fragment count : 7, current norm : 4.59e-05
+
+fragment count : 8, current norm : 2.61e-05
+
+fragment count : 9, current norm : 1.55e-05
+
+fragment count : 10, current norm : 1.07e-05
+
+fragment count : 11, current norm : 5e-06
+
+fragment count : 12, current norm : 3.8e-06
+
+fragment count : 13, current norm : 1.8e-06
+
+fragment count : 14, current norm : 9e-07
+
+
+        Molecule            : h2
+        Method              : meanfield
+        Number of Fragments : 14
+        Final Norm          : 9.176072748256041e-07 
+    

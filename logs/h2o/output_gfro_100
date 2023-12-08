@@ -1,0 +1,75 @@
+
+Initial Norm : 51.8609404662307
+
+fragment count : 1, current norm : 0.3887484
+
+fragment count : 2, current norm : 0.2066267
+
+fragment count : 3, current norm : 0.0838638
+
+fragment count : 4, current norm : 0.05295
+
+fragment count : 5, current norm : 0.0349038
+
+fragment count : 6, current norm : 0.020967
+
+fragment count : 7, current norm : 0.0129454
+
+fragment count : 8, current norm : 0.0073605
+
+fragment count : 9, current norm : 0.005132
+
+fragment count : 10, current norm : 0.0037035
+
+fragment count : 11, current norm : 0.0026479
+
+fragment count : 12, current norm : 0.0018667
+
+fragment count : 13, current norm : 0.0012675
+
+fragment count : 14, current norm : 0.0008799
+
+fragment count : 15, current norm : 0.0006501
+
+fragment count : 16, current norm : 0.0004553
+
+fragment count : 17, current norm : 0.0003239
+
+fragment count : 18, current norm : 0.0002234
+
+fragment count : 19, current norm : 0.0001537
+
+fragment count : 20, current norm : 0.0001036
+
+fragment count : 21, current norm : 7.26e-05
+
+fragment count : 22, current norm : 5.06e-05
+
+fragment count : 23, current norm : 3.36e-05
+
+fragment count : 24, current norm : 2.14e-05
+
+fragment count : 25, current norm : 1.55e-05
+
+fragment count : 26, current norm : 1.08e-05
+
+fragment count : 27, current norm : 8.1e-06
+
+fragment count : 28, current norm : 5.9e-06
+
+fragment count : 29, current norm : 4e-06
+
+fragment count : 30, current norm : 2.7e-06
+
+fragment count : 31, current norm : 2e-06
+
+fragment count : 32, current norm : 1.5e-06
+
+fragment count : 33, current norm : 1e-06
+
+
+        Molecule            : h2o
+        Method              : gfro
+        Number of Fragments : 33
+        Final Norm          : 9.804602210609753e-07 
+    
